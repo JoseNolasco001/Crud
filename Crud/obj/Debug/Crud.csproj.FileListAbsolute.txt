@@ -1,0 +1,16 @@
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\MainWindow.g.cs
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\App.g.cs
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud_MarkupCompile.cache
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud_MarkupCompile.lref
+C:\Users\jose_\source\repos\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\jose_\source\repos\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\jose_\source\repos\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\MainWindow.baml
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.g.resources
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\jose_\source\repos\Crud\Crud\obj\Debug\Crud.pdb
